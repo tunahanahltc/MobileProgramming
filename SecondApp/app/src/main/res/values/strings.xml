@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SecondApp</string>
+    <string name="uye_gırıs_txt">Üye Girişi</string>
+    <string name="name">İsim</string>
+    <string name="surname">Soyadı</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="password">Şifre</string>
+    <string name="button">Kayıt Ol</string>
+    <string name="member_login">Üye Giriş</string>
+    <string name="button1">button1</string>
+    <string name="beRegister">Kayıt Ol</string>
+    <string name="student_id">Öğrenci Numarası</string>
+</resources>
